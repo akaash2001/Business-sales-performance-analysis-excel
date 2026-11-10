@@ -24,6 +24,9 @@ The objective is to transform raw sales data into meaningful business insights t
 - Verified calculated sales against recorded sales.
 - Verified calculated profit against recorded profit.
 - All 1,000 sales and profit records matched the calculations.
+- ## Dashboard Preview
+
+![Business Sales Dashboard](dashboard.png)
 
 ## Business Analysis
 1. Product Performance Analysis
